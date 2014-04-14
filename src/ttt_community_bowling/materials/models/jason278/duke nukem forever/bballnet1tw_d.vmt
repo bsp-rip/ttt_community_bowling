@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Models/Jason278/Duke Nukem Forever/bballnet1tw_d"
+	"$bumpmap" "Models/Jason278/Duke Nukem Forever/bballnet1tw_normal"
+               "$translucent" 1
+             "$NOCULL" 1
+}

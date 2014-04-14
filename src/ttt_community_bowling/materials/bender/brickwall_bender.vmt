@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bender/brickwall_bender"
+	"$surfaceprop" "Brick"
+}

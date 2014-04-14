@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Models/Jason278/Duke Nukem Forever/Basketball_Arcade_Net"
+	"$translucent" 1
+                "$NOCULL" 1
+}

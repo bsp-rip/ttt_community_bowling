@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "Models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_RedKey"
+	"$bumpmap" "Models/Jason278/DUke Nukem Forever/Pinball/Pinball_Light_Redky_N"
+                "$detail" "models/Jason278/DUke Nukem Forever/Pinball/Pinball_Light_Redkey_E"
+   	"$detailscale" "1"
+   	"$detailblendfactor" "2"
+   	"$detailblendmode" "1"
+}
